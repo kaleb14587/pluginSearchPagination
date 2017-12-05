@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abeaa749-36f9-49d4-b44c-459fd052cfa9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,21 +17,21 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="590">
-                <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+              <first_editor relative-caret-position="54">
+                <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
                 <folding>
-                  <marker date="1512476192892" expanded="true" signature="168:815" ph="{&quot;id_form&quot;: '##form-async-search-filter'...}" />
-                  <marker date="1512476192892" expanded="true" signature="311:364" ph="{...}" />
-                  <marker date="1512476192892" expanded="true" signature="399:493" ph="{&quot;id&quot;: 'loading'...}" />
-                  <marker date="1512476192892" expanded="true" signature="530:809" ph="{...}" />
-                  <marker date="1512476192892" expanded="true" signature="642:765" ph="{...}" />
-                  <marker date="1512476192892" expanded="true" signature="692:751" ph="{...}" />
-                  <marker date="1512476192892" expanded="true" signature="857:897" ph="{...}" />
-                  <marker date="1512476192892" expanded="true" signature="970:1010" ph="{...}" />
-                  <marker date="1512476192892" expanded="true" signature="1067:1107" ph="{...}" />
-                  <marker date="1512476192892" expanded="true" signature="1148:1188" ph="{...}" />
-                  <marker date="1512476192892" expanded="true" signature="1249:1325" ph="{...}" />
-                  <marker date="1512476192892" expanded="true" signature="1373:1558" ph="{...}" />
+                  <marker date="1512476277928" expanded="true" signature="171:818" ph="{&quot;id_form&quot;: '##form-async-search-filter'...}" />
+                  <marker date="1512476277928" expanded="true" signature="314:367" ph="{...}" />
+                  <marker date="1512476277928" expanded="true" signature="402:496" ph="{&quot;id&quot;: 'loading'...}" />
+                  <marker date="1512476277928" expanded="true" signature="533:812" ph="{...}" />
+                  <marker date="1512476277928" expanded="true" signature="645:768" ph="{...}" />
+                  <marker date="1512476277928" expanded="true" signature="695:754" ph="{...}" />
+                  <marker date="1512476277928" expanded="true" signature="860:900" ph="{...}" />
+                  <marker date="1512476277928" expanded="true" signature="973:1013" ph="{...}" />
+                  <marker date="1512476277928" expanded="true" signature="1070:1110" ph="{...}" />
+                  <marker date="1512476277928" expanded="true" signature="1151:1191" ph="{...}" />
+                  <marker date="1512476277928" expanded="true" signature="1252:1328" ph="{...}" />
+                  <marker date="1512476277928" expanded="true" signature="1376:1561" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -121,12 +120,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1512475985075</updated>
-      <workItem from="1512475986346" duration="207000" />
+      <workItem from="1512475986346" duration="293000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="207000" />
+    <option name="totallyTimeSpent" value="293000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="-4" width="1551" height="904" extended-state="6" />
@@ -165,21 +164,21 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="590">
-            <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
             <folding>
-              <marker date="1512476192892" expanded="true" signature="168:815" ph="{&quot;id_form&quot;: '##form-async-search-filter'...}" />
-              <marker date="1512476192892" expanded="true" signature="311:364" ph="{...}" />
-              <marker date="1512476192892" expanded="true" signature="399:493" ph="{&quot;id&quot;: 'loading'...}" />
-              <marker date="1512476192892" expanded="true" signature="530:809" ph="{...}" />
-              <marker date="1512476192892" expanded="true" signature="642:765" ph="{...}" />
-              <marker date="1512476192892" expanded="true" signature="692:751" ph="{...}" />
-              <marker date="1512476192892" expanded="true" signature="857:897" ph="{...}" />
-              <marker date="1512476192892" expanded="true" signature="970:1010" ph="{...}" />
-              <marker date="1512476192892" expanded="true" signature="1067:1107" ph="{...}" />
-              <marker date="1512476192892" expanded="true" signature="1148:1188" ph="{...}" />
-              <marker date="1512476192892" expanded="true" signature="1249:1325" ph="{...}" />
-              <marker date="1512476192892" expanded="true" signature="1373:1558" ph="{...}" />
+              <marker date="1512476277928" expanded="true" signature="171:818" ph="{&quot;id_form&quot;: '##form-async-search-filter'...}" />
+              <marker date="1512476277928" expanded="true" signature="314:367" ph="{...}" />
+              <marker date="1512476277928" expanded="true" signature="402:496" ph="{&quot;id&quot;: 'loading'...}" />
+              <marker date="1512476277928" expanded="true" signature="533:812" ph="{...}" />
+              <marker date="1512476277928" expanded="true" signature="645:768" ph="{...}" />
+              <marker date="1512476277928" expanded="true" signature="695:754" ph="{...}" />
+              <marker date="1512476277928" expanded="true" signature="860:900" ph="{...}" />
+              <marker date="1512476277928" expanded="true" signature="973:1013" ph="{...}" />
+              <marker date="1512476277928" expanded="true" signature="1070:1110" ph="{...}" />
+              <marker date="1512476277928" expanded="true" signature="1151:1191" ph="{...}" />
+              <marker date="1512476277928" expanded="true" signature="1252:1328" ph="{...}" />
+              <marker date="1512476277928" expanded="true" signature="1376:1561" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />

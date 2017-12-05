@@ -1,7 +1,7 @@
 # pluginSearchPagination
 plugin para componente de busca e paginação
 
-# modo de uso
+# exemplo de uso
 
 ```javascript
 var form_sync = $('#form-async-search-filter');
